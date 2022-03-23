@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: bc16a5af4e8957d459434977134f4e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4586357795494497018
+    second: SeekPng.com_shotgun-shell-png_2241491 1_0
+  - first:
+      213: 2679126392138970216
+    second: SeekPng.com_shotgun-shell-png_2241491 1_1
+  - first:
+      213: -6554063237250184739
+    second: SeekPng.com_shotgun-shell-png_2241491 1_2
+  - first:
+      213: -3054639243816398062
+    second: SeekPng.com_shotgun-shell-png_2241491 1_3
+  - first:
+      213: -756297792626238427
+    second: SeekPng.com_shotgun-shell-png_2241491 1_4
+  - first:
+      213: 6086373294526191436
+    second: SeekPng.com_shotgun-shell-png_2241491 1_5
+  - first:
+      213: 5568772517216704989
+    second: SeekPng.com_shotgun-shell-png_2241491 1_6
+  - first:
+      213: 2122415088692971586
+    second: SeekPng.com_shotgun-shell-png_2241491 1_7
+  - first:
+      213: 4091963640097550501
+    second: SeekPng.com_shotgun-shell-png_2241491 1_8
+  - first:
+      213: -4746144461413890742
+    second: SeekPng.com_shotgun-shell-png_2241491 1_9
+  - first:
+      213: 2783355241540589759
+    second: SeekPng.com_shotgun-shell-png_2241491 1_10
+  - first:
+      213: -152994752268437382
+    second: SeekPng.com_shotgun-shell-png_2241491 1_11
+  - first:
+      213: 1617740269891065331
+    second: SeekPng.com_shotgun-shell-png_2241491 1_12
+  - first:
+      213: 8882948831084499382
+    second: SeekPng.com_shotgun-shell-png_2241491 1_13
+  - first:
+      213: 2912820132815370891
+    second: SeekPng.com_shotgun-shell-png_2241491 1_14
+  - first:
+      213: -1559326583023996443
+    second: SeekPng.com_shotgun-shell-png_2241491 1_15
+  - first:
+      213: 5090712800096649635
+    second: SeekPng.com_shotgun-shell-png_2241491 1_16
+  - first:
+      213: 4464801665478624274
+    second: SeekPng.com_shotgun-shell-png_2241491 1_17
+  - first:
+      213: 2835209973593555792
+    second: SeekPng.com_shotgun-shell-png_2241491 1_18
+  - first:
+      213: 4132102173783395791
+    second: SeekPng.com_shotgun-shell-png_2241491 1_19
+  - first:
+      213: -8124041581069137125
+    second: SeekPng.com_shotgun-shell-png_2241491 1_20
+  - first:
+      213: -8239201678912614899
+    second: SeekPng.com_shotgun-shell-png_2241491 1_21
+  - first:
+      213: 7666448676280971065
+    second: SeekPng.com_shotgun-shell-png_2241491 1_22
+  - first:
+      213: -3216644430564641314
+    second: SeekPng.com_shotgun-shell-png_2241491 1_23
+  - first:
+      213: 8552162264977329950
+    second: SeekPng.com_shotgun-shell-png_2241491 1_24
+  - first:
+      213: 7084911091427789129
+    second: SeekPng.com_shotgun-shell-png_2241491 1_25
+  - first:
+      213: -5874410128740387517
+    second: SeekPng.com_shotgun-shell-png_2241491 1_26
+  - first:
+      213: -1463508879560016327
+    second: SeekPng.com_shotgun-shell-png_2241491 1_27
+  - first:
+      213: -2068602550606806320
+    second: SeekPng.com_shotgun-shell-png_2241491 1_28
+  - first:
+      213: -7728311782498502301
+    second: SeekPng.com_shotgun-shell-png_2241491 1_29
+  - first:
+      213: 8603227405907999506
+    second: SeekPng.com_shotgun-shell-png_2241491 1_30
+  - first:
+      213: 5227337378788801933
+    second: SeekPng.com_shotgun-shell-png_2241491 1_31
+  - first:
+      213: 2642967024840080083
+    second: SeekPng.com_shotgun-shell-png_2241491 1_32
+  - first:
+      213: -5593268186484339389
+    second: SeekPng.com_shotgun-shell-png_2241491 1_33
+  - first:
+      213: 506625881893538256
+    second: SeekPng.com_shotgun-shell-png_2241491 1_34
+  - first:
+      213: -4576134641753801161
+    second: SeekPng.com_shotgun-shell-png_2241491 1_35
+  - first:
+      213: 4835500499809707740
+    second: SeekPng.com_shotgun-shell-png_2241491 1_36
+  - first:
+      213: 4542815814672581380
+    second: SeekPng.com_shotgun-shell-png_2241491 1_37
+  - first:
+      213: -5825221152484406244
+    second: SeekPng.com_shotgun-shell-png_2241491 1_38
+  - first:
+      213: 5998018230172100094
+    second: SeekPng.com_shotgun-shell-png_2241491 1_39
+  - first:
+      213: -6169053064677491235
+    second: SeekPng.com_shotgun-shell-png_2241491 1_40
+  - first:
+      213: 1865706542875704271
+    second: SeekPng.com_shotgun-shell-png_2241491 1_41
+  - first:
+      213: 4387637132880888187
+    second: SeekPng.com_shotgun-shell-png_2241491 1_42
+  - first:
+      213: -3838421106116566384
+    second: SeekPng.com_shotgun-shell-png_2241491 1_43
+  - first:
+      213: -3051585250053680910
+    second: SeekPng.com_shotgun-shell-png_2241491 1_44
+  - first:
+      213: 4454871829836159348
+    second: SeekPng.com_shotgun-shell-png_2241491 1_45
+  - first:
+      213: -2573222150512742464
+    second: SeekPng.com_shotgun-shell-png_2241491 1_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 589
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0b4d8d1406af30800000000000000
+      internalID: 4586357795494497018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 601
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86431df424b2e2520800000000000000
+      internalID: 2679126392138970216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 586
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9814ce53a4b05a0800000000000000
+      internalID: -6554063237250184739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 589
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131b5bbacdbb95d0800000000000000
+      internalID: -3054639243816398062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 568
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd9162a271185f0800000000000000
+      internalID: -756297792626238427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 532
+        width: 83
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4758aea344277450800000000000000
+      internalID: 6086373294526191436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_6
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 532
+        width: 83
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d8ab8911484d40800000000000000
+      internalID: 5568772517216704989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 366
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24849733745547d10800000000000000
+      internalID: 2122415088692971586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 422
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a034d1204399c830800000000000000
+      internalID: 4091963640097550501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 366
+        width: 5
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ccbc22ce422eb0800000000000000
+      internalID: -4746144461413890742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 366
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89fb768d670a620800000000000000
+      internalID: 2783355241540589759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 366
+        width: 16
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787a8a551470edf0800000000000000
+      internalID: -152994752268437382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 366
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f593bd443e537610800000000000000
+      internalID: 1617740269891065331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 366
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b153c2e5e2964b70800000000000000
+      internalID: 8882948831084499382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 422
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8af01f5a7a6c6820800000000000000
+      internalID: 2912820132815370891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 366
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f7020cb82c5ae0800000000000000
+      internalID: -1559326583023996443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 366
+        width: 24
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18b47e158d5a640800000000000000
+      internalID: 5090712800096649635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_17
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 366
+        width: 21
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140d6f857926fd30800000000000000
+      internalID: 4464801665478624274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 370
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05340bb0370b85720800000000000000
+      internalID: 2835209973593555792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_19
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 367
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd8af3c80d285930800000000000000
+      internalID: 4132102173783395791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_20
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 367
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b0fdb993b914f80800000000000000
+      internalID: -8124041581069137125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 366
+        width: 5
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e8c97e9b978ad80800000000000000
+      internalID: -8239201678912614899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 366
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fad76d372b46a60800000000000000
+      internalID: 7666448676280971065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b473deee2c53d0800000000000000
+      internalID: -3216644430564641314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 366
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4979c4426fa670800000000000000
+      internalID: 8552162264977329950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94947c5a919a25260800000000000000
+      internalID: 7084911091427789129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f873ac17e97ea0800000000000000
+      internalID: -5874410128740387517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 347
+        width: 21
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ef1349d6290bbe0800000000000000
+      internalID: -1463508879560016327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24d9da0f8da43e0800000000000000
+      internalID: -2068602550606806320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 366
+        width: 5
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369f5b251658fb490800000000000000
+      internalID: -7728311782498502301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3d0b6ebdc46770800000000000000
+      internalID: 8603227405907999506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_31
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df3df76ab3b8840800000000000000
+      internalID: 5227337378788801933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 366
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf9ac8184bda420800000000000000
+      internalID: 2642967024840080083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 145
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d8b130838b062b0800000000000000
+      internalID: -5593268186484339389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 122
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9884c2e85e70700800000000000000
+      internalID: 506625881893538256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 139
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb7e9e9cd4e70c0800000000000000
+      internalID: -4576134641753801161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_36
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 181
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6a162c5162b1340800000000000000
+      internalID: 4835500499809707740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_37
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 172
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40306912ae25b0f30800000000000000
+      internalID: 4542815814672581380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_38
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 172
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4314a938a82fa0800000000000000
+      internalID: -5825221152484406244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a9bd2dcd3d3350800000000000000
+      internalID: 5998018230172100094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddfc573cee136aa0800000000000000
+      internalID: -6169053064677491235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb7a3f373254e910800000000000000
+      internalID: 1865706542875704271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71cda4c9b404ec30800000000000000
+      internalID: 4387637132880888187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926f8f37503bbac0800000000000000
+      internalID: -3838421106116566384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 26
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09ab0126796a5d0800000000000000
+      internalID: -3051585250053680910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_45
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 12
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47957498352e2dd30800000000000000
+      internalID: 4454871829836159348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_shotgun-shell-png_2241491 1_46
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 12
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf658e66141a4cd0800000000000000
+      internalID: -2573222150512742464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
