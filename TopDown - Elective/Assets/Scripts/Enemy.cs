@@ -7,7 +7,7 @@ public class Enemy : MonoBehaviour
     public Sprite[] sprites;
     private SpriteRenderer spriteRenderer;
     private Rigidbody2D rigidbody;
-    public float speed= 10f;
+    public float speed= 60f;
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -21,14 +21,18 @@ public class Enemy : MonoBehaviour
 
     public void SetTrajectory(Vector2 direction)
     {
-        this.rigidbody.AddForce(direction * speed);
+        rigidbody.AddForce(direction * speed);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
        if (collision.gameObject.tag == "Bullet")
-        {
+       {
             Destroy(this.gameObject);
-        }
+       }
+       if (collision.gameObject.tag == "Player")
+       {
+            Destroy(this.gameObject);
+       }
     }
 }

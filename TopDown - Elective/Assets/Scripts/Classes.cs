@@ -25,9 +25,6 @@ public class Classes : MonoBehaviour
     private float shootSpeed;
     public float bulletSpeed;
 
-    private int hp;
-    private int dmg;
-
     private bool canShoot = true;
 
     public void Awake()
@@ -81,8 +78,6 @@ public class Classes : MonoBehaviour
     public IEnumerator shootPistol()
     {
         canShoot = false;
-        hp = 15;
-        dmg = 15;
         GameObject bulletCreate = Instantiate(bullet, pistolPoint.position, pistolPoint.rotation);
         Rigidbody2D bulletRB = bulletCreate.GetComponent<Rigidbody2D>();
         bulletRB.AddForce(pistolPoint.right * bulletSpeed);
@@ -96,8 +91,6 @@ public class Classes : MonoBehaviour
     public IEnumerator shootSMG()
     {
         canShoot = false;
-        hp = 20;
-        dmg = 10;
         GameObject bulletCreate = Instantiate(bullet, smgPoint.position, smgPoint.rotation);
         Rigidbody2D bulletRB = bulletCreate.GetComponent<Rigidbody2D>();
         bulletRB.AddForce(smgPoint.right * bulletSpeed);
@@ -110,8 +103,6 @@ public class Classes : MonoBehaviour
     public IEnumerator shootSniper()
     {
         canShoot = false;
-        hp = 10;
-        dmg = 20;
         GameObject bulletCreate = Instantiate(bullet, sniperPoint.position, sniperPoint.rotation);
         Rigidbody2D bulletRB = bulletCreate.GetComponent<Rigidbody2D>();
         bulletRB.AddForce(sniperPoint.right * bulletSpeed);
@@ -121,14 +112,3 @@ public class Classes : MonoBehaviour
         canShoot = true;
     }
 }
-
-
-/*Idea is 3 classes: SMG(Machinist), Pistoleer(Pistol), Sniper (Sniper)
- *  SMG = High HP, Low DMG, Fast Fire Rate
- *  Pistol = Medium HP, Medium DMG, Medium FR
- *  Sniper = Small HP, High DMG, Slow FR
- *  
- *  
- *  Need HP modifier
- *  Need DMG Modifier
- */
