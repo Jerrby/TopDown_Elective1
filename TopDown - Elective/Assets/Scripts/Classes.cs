@@ -115,11 +115,10 @@ public class Classes : MonoBehaviour
         GameObject bulletCreate = Instantiate(bullet, sniperPoint.position, sniperPoint.rotation);
         Rigidbody2D bulletRB = bulletCreate.GetComponent<Rigidbody2D>();
         bulletRB.AddForce(sniperPoint.right * bulletSpeed);
-        Destroy(bulletCreate, 5);
+        Destroy(bulletCreate, 2.5f);
         shootSpeed = 1;
         yield return new WaitForSeconds(shootSpeed);
         canShoot = true;
-
     }
 }
 
