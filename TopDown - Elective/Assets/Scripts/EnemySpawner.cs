@@ -19,7 +19,7 @@ public class EnemySpawner : MonoBehaviour
         for (int i = 0; i <spawnAmount; i++)
         {
             Vector3 spawnDirection = Random.insideUnitCircle.normalized * spawnDistance;
-            Vector3 spawnPoint = this.transform.position + spawnDirection;
+            Vector3 spawnPoint = transform.position + spawnDirection;
 
             float variance = Random.Range(trajVariance, trajVariance); 
             Quaternion rotation =Quaternion.AngleAxis(variance, Vector3.forward);

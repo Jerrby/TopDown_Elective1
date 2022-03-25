@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Classes : MonoBehaviour
 {
@@ -21,6 +22,8 @@ public class Classes : MonoBehaviour
     public Transform sniperPoint;
 
     public GameObject bullet;
+
+    public TextMeshProUGUI textBox1;
 
     private float shootSpeed;
     public float bulletSpeed;
@@ -83,6 +86,7 @@ public class Classes : MonoBehaviour
         bulletRB.AddForce(pistolPoint.right * bulletSpeed);
         Destroy(bulletCreate, 5);
         shootSpeed = .5f;
+        textBox1.text = "DONE";
         yield return new WaitForSeconds(shootSpeed);
         canShoot = true;
 
@@ -96,6 +100,7 @@ public class Classes : MonoBehaviour
         bulletRB.AddForce(smgPoint.right * bulletSpeed);
         Destroy(bulletCreate, 5);
         shootSpeed = .2f;
+        textBox1.text = "DONE";
         yield return new WaitForSeconds(shootSpeed);
         canShoot = true;
 
@@ -108,6 +113,7 @@ public class Classes : MonoBehaviour
         bulletRB.AddForce(sniperPoint.right * bulletSpeed);
         Destroy(bulletCreate, 2.5f);
         shootSpeed = 1;
+        textBox1.text = "DONE";
         yield return new WaitForSeconds(shootSpeed);
         canShoot = true;
     }
